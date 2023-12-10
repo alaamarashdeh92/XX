@@ -10,6 +10,8 @@ int main() {
     cout << "You entered " << number<<endl ;
     cout<<a;
     cout<<&a;
+    cout<<&a;
+    cout<<&a;
     return 0;
 
 
